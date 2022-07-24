@@ -1,5 +1,5 @@
 # Recrusion-Assignment-
-Assignment provided by ECGR 2104
+Assignment provided by Computer Engr Programming II (ECGR 2104)
 
 Use recursion to complete the following code. No iterative code allowed!
 
